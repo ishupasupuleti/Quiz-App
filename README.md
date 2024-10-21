@@ -1,5 +1,2 @@
-# quiz-app
-
+ https://ishupasupuleti.github.io/Quiz-App/
  
- 
-App link :  https://psv888.github.io/quiz-app/
